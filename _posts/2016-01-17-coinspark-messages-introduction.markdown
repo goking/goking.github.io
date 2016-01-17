@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CoinSprark Messages Introduction を訳してみた"
+title:  "CoinSpark Messages Introduction を訳してみた"
 categories: blog
 ---
 カラードコインを色々調べていて、CoinSparkがなかなかやると聞いて、まずはメッセージングのプロトコルであるCoinSpark Messagesをお試しで訳してみる。

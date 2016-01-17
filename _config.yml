@@ -10,3 +10,5 @@ github_username:  goking
 
 # Build settings
 markdown: kramdown
+exclude:
+  - s3_website.yml

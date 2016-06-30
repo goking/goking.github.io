@@ -12,3 +12,5 @@ github_username:  goking
 markdown: kramdown
 exclude:
   - s3_website.yml
+gems:
+  - jekyll-sitemap
